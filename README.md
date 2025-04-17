@@ -44,7 +44,7 @@ To run the Smart Traveler app locally:
 4. Run the Streamlit app:
 
    ```bash
-   streamlit run app.py
+   streamlit run app/main.py
    ```
 
 5. Open your browser and navigate to `http://localhost:8501` to use the app.
